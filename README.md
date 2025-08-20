@@ -17,7 +17,3 @@
   <img height="10" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"  />
 </div>
 
-<br>
-
-<p align="center"> 💬 “Code is not just about solving problems, it's about solving the right problems creatively.” </p>
-
